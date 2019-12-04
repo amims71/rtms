@@ -1,0 +1,2 @@
+CREATE TABLE `rtms`.`user_info` ( `fullname` TEXT NOT NULL , `username` TEXT NULL , `address` TEXT NOT NULL , `mobile` TEXT NOT NULL , `bankname` TEXT NOT NULL , `acn` TEXT NOT NULL , `password` TEXT NOT NULL , PRIMARY KEY (`username`)) ENGINE = MyISAM;
+
