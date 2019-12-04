@@ -2,7 +2,7 @@
 
 requirements:
 
-OS: Windows7/8/10.
+OS: Windows7/8/10 64bit.
 software: Xampp(Provides Apache Server, PHP and mySQL DB), Chrome browser.
 
 
