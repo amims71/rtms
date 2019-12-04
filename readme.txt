@@ -15,8 +15,8 @@ step 6: visit localhost/phpmyadmin and create a new database named "rtms".
 step 7: select rtms and import rtms.sql file here.
 step 8: set you db user name and password at config.php and Admin/config.php. by default, it is "root" and ""(empty)
     *You are almost done*
-step 8: visit localhost/RTMS for user panel.
-step 9: visit localhost/RTMS/Admin for admin panel.
+step 9: visit localhost/RTMS for user panel.
+step 10: visit localhost/RTMS/Admin for admin panel.
     Admin Credentials:
         username: admin
         password: 1234
