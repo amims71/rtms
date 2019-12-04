@@ -19,3 +19,5 @@ step 9: visit localhost/RTMS/Admin for admin panel.
     Admin Credentials:
         username: admin
         password: 1234
+
+NB: you will find the train only if the selected stations match any train routes.
